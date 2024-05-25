@@ -9,12 +9,6 @@ This is a simple signup/login flow with Google integration. The project consists
 - MongoDB
 - npm (comes with Node.js)
 
-### Clone the Repository
-```bash
-git clone <repository-url>
-cd my-app
-```
-
 ### Install Dependencies
 1. Install backend dependencies:
     ```bash
